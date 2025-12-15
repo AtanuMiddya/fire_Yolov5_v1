@@ -1,4 +1,4 @@
-1.cd Yolov5-Fire-Detection
+1.cd fire_Yolov5_v1
 2.git clone https://github.com/ultralytics/yolov5.git 
 cd yolov5
 pip install -r requirements.txt
